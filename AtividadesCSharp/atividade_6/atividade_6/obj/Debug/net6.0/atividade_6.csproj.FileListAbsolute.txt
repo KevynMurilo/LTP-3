@@ -1,0 +1,14 @@
+C:\Users\kevyn\source\repos\atividade_6\atividade_6\obj\Debug\net6.0\atividade_6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevyn\source\repos\atividade_6\atividade_6\obj\Debug\net6.0\atividade_6.AssemblyInfoInputs.cache
+C:\Users\kevyn\source\repos\atividade_6\atividade_6\obj\Debug\net6.0\atividade_6.AssemblyInfo.cs
+C:\Users\kevyn\source\repos\atividade_6\atividade_6\obj\Debug\net6.0\atividade_6.csproj.CoreCompileInputs.cache
+C:\Users\kevyn\source\repos\atividade_6\atividade_6\bin\Debug\net6.0\atividade_6.exe
+C:\Users\kevyn\source\repos\atividade_6\atividade_6\bin\Debug\net6.0\atividade_6.deps.json
+C:\Users\kevyn\source\repos\atividade_6\atividade_6\bin\Debug\net6.0\atividade_6.runtimeconfig.json
+C:\Users\kevyn\source\repos\atividade_6\atividade_6\bin\Debug\net6.0\atividade_6.dll
+C:\Users\kevyn\source\repos\atividade_6\atividade_6\bin\Debug\net6.0\atividade_6.pdb
+C:\Users\kevyn\source\repos\atividade_6\atividade_6\obj\Debug\net6.0\atividade_6.dll
+C:\Users\kevyn\source\repos\atividade_6\atividade_6\obj\Debug\net6.0\refint\atividade_6.dll
+C:\Users\kevyn\source\repos\atividade_6\atividade_6\obj\Debug\net6.0\atividade_6.pdb
+C:\Users\kevyn\source\repos\atividade_6\atividade_6\obj\Debug\net6.0\atividade_6.genruntimeconfig.cache
+C:\Users\kevyn\source\repos\atividade_6\atividade_6\obj\Debug\net6.0\ref\atividade_6.dll
